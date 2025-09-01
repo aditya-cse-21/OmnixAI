@@ -1,4 +1,4 @@
-﻿# OmnixAI - AI-Powered Creative Platform
+﻿# OmnixAI - AI-SaaS Platform
 
 OmnixAI is a comprehensive AI-powered platform that offers various creative tools including image generation, background removal, object removal, article writing, resume review, and more.
 
@@ -171,4 +171,5 @@ If you have any questions or need support, please open an issue on GitHub or con
 ---
 
 **Made with ❤️ by the OmnixAI Team**
+
 
