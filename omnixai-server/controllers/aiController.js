@@ -1,7 +1,7 @@
 import OpenAI from 'openai';
 import axios from 'axios';
 import cloudinary from 'cloudinary';
-import { sql } from '../config/db.js';
+import sql from '../config/db.js';
 
 const AI = new OpenAI({
   apiKey: process.env.GEMINI_API_KEY,
