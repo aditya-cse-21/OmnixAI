@@ -29,7 +29,7 @@ OmnixAI is a comprehensive AI-powered platform that offers various creative tool
 ### Backend (omnixai-server)
 - **Node.js** - Runtime environment
 - **Express.js** - Web framework
-- **MongoDB** - Database
+- **PostgreSQL** - Database
 - **Cloudinary** - Image storage
 - **Multer** - File upload handling
 - **JWT** - Authentication
@@ -160,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- OpenAI for AI capabilities
+- Gemini,Clickdrop API for AI capabilities
 - Cloudinary for image processing
 - React and Node.js communities
 
@@ -171,6 +171,7 @@ If you have any questions or need support, please open an issue on GitHub or con
 ---
 
 **Made with ❤️ by Aditya**
+
 
 
 
