@@ -59,8 +59,9 @@ OmnixAI/
 ### Prerequisites
 - Node.js (v16 or higher)
 - npm or yarn
-- MongoDB (local or cloud)
+- PostgreSQL (local or cloud)
 - Cloudinary account
+- Clerk Account
 
 ### Installation
 
@@ -171,6 +172,7 @@ If you have any questions or need support, please open an issue on GitHub or con
 ---
 
 **Made with ❤️ by Aditya**
+
 
 
 
